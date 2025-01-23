@@ -53,7 +53,7 @@
 .head h{
     display: flex;
 }
-.hero {
+
     display: flex.wrapper{
         height: 100vh;
         background-color: aquamarine;
